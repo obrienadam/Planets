@@ -1,0 +1,25 @@
+#################################################
+#                                               #
+#           Test Input File for Planets         #
+#                                               #
+#################################################
+#################################################
+#                                               #
+#             Particle Simulation               #
+#                                               #
+#################################################
+
+IC_Type=
+Star_Cold_Collapse
+
+N_Particles=
+90
+
+Force_Evaluation=
+BinaryTree_FML
+
+Mass_Average=
+1.981e30
+
+Mass_Std_Dev=
+0.2
